@@ -1,8 +1,8 @@
 name:                bird-combinators
-version:             0.1.0.0
+version:             0.1.1.0
 synopsis:            Combinators for making point-free functions
 description:         This combinators capture common patterns
-    of argument distribution's over bodies in function definition's.
+    of argument's distribution over bodies in function's definitions.
     That makes easier to define functions with point-free bodies
     which are better suited for equational reasoning. Some definitions
     are taken from "Thinking functionally with Haskell" by Richard Bird.
